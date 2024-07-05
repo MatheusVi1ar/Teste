@@ -1,4 +1,4 @@
-def gerar_file2():
+def gerar_file():
     print("Ola")
 
 gerar_file()
